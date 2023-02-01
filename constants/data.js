@@ -1,25 +1,25 @@
 const userData = {
   githubUsername: "manuarora700",
-  name: "Manu Arora",
+  name: "Michael Bonner",
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "codebymdb@gmail.com",
+  phone: "+1 4048325896",
+  address: "Atlanta, GA.",
   projects: [
     {
-      title: "Tailwind Master Kit",
+      title: "Rhythm & Bizness",
       link: "https://tailwindmasterkit.com",
       imgUrl: "/tmk.jpg",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
+      title: "Song Collab DAO",
+      link: "https://songcollabdao.xyz",
       imgUrl: "/placeholdertech.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
+      title: "Kannabiz Monkeez",
+      link: "https://nft.kannabizmonkeez.space",
       imgUrl: "/portfolio.png",
     },
     {
